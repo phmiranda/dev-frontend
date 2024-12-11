@@ -1,0 +1,1 @@
+/* comentários de apoio a documentação do arquivo */
