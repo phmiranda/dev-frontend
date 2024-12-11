@@ -1,0 +1,17 @@
+{
+  "name": "dev-frontend",
+  "version": "1.0.0",
+  "description": "Curso de bootstrap 3 criado no livro da editora Novatec.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Accellero",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
